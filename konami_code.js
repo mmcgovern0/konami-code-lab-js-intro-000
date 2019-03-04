@@ -24,5 +24,6 @@ function init() {
       window.alert("You found the Easter Egg!");
       index = 0
     }
+    
   })
 }
