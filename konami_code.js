@@ -20,6 +20,6 @@ function init() {
     
     index = (codes[index] === key) ? ++index : 0
     
-    if
+    if(index === codes.length)
   })
 }
